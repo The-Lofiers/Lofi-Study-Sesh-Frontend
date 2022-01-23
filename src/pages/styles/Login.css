@@ -4,13 +4,10 @@
 .loginContainer {
     width: 100vw;
     height: 100vh;
-    background: var(--login-bg);
-    background-image: url("../../assets/images/bg.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 0;
     overflow-x: hidden;
+    background: var(--login-bg);
 }
+
 .headerText {
     color: var(--login-tc);
     text-align: center;
@@ -32,6 +29,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
+    /* background image  */
+    background-image: url("../../assets/images/bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .loginForm .emailInput {
