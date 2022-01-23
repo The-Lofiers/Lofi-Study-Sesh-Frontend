@@ -6,6 +6,6 @@ button text: #F6F1E4
 
 main page
 background : #FFF5EB
-rec bg     : #ECCFBE
 rec txt    : #CCA899
+rec bg     : #ECCFBE
 folder     : #C39D8A

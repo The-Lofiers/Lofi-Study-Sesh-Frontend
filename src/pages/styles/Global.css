@@ -1,0 +1,18 @@
+/* Defining Global Variables for Color Codes */
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Arvo&family=Oswald:wght@300&family=Patrick+Hand&display=swap');
+
+
+:root {
+    /* login page */
+    --login-bg: #EFE6D6;
+    --login-tc: #CCA899;
+    --login-btn-bg: #AB9079;
+    --login-btn-tc: #F6F1E4;
+
+    /* main page */
+    --main-bg: #FFF5EB;
+    --main-tc: #CCA899;
+    --main-rt: #ECCFBE;
+    --main-fd: #C39D8A;
+}
+
