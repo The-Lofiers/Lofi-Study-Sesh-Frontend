@@ -1,0 +1,11 @@
+login + register page
+background : #EFE6D6
+text color : #CCA899
+button bg  : #AB9079
+button text: #F6F1E4
+
+main page
+background : #FFF5EB
+rec bg     : #ECCFBE
+rec txt    : #CCA899
+folder     : #C39D8A
